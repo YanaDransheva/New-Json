@@ -1,0 +1,12 @@
+{
+"id": 1,
+"jsonrpc": "2.0",
+"method": "GetChangedDictionaryItems",
+"params": {
+"ObjectUIN": "UIN_OR_CODE",
+"ChangeDate": "01.01.2021",
+"UserName": "user_name",
+"Password": "user_pass" 
+},
+"version": 1
+}
